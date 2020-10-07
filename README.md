@@ -1,8 +1,7 @@
 # **Desarrollo FrontEnd con Angular**
 Conferencia del Laboratorio de Manejo e implementación de Archivos 
-- Sección: **-A**
-- Fecha: **07/10/2020**
-- [Proyecto](https://github.com/gerchay/nombre-de-mi-proyecto.git)
+- **Sección:** -A
+- **Fecha:** 07/10/2020
 
 ## Autor ✒️
 - [Gerado Chay](https://github.com/gerchay) 
