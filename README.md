@@ -1,27 +1,49 @@
-# DesarrolloFrontendAngular
+# **Desarrollo FrontEnd con Angular**
+Conferencia del Laboratorio de Manejo e implementación de Archivos 
+- Sección: **-A**
+- Fecha: **07/10/2020**
+- [Proyecto](https://github.com/gerchay/nombre-de-mi-proyecto.git)
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.7.
+## Autor ✒️
+- [Gerado Chay](https://github.com/gerchay) 
 
-## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+## Herramientas  🚀
 
-## Code scaffolding
+- [NodeJS](https://nodejs.org/es/download)
+```
+> npm install -g @angular/cli    // Instala Angular cli
+```
+- [TypeScript](https://www.typescriptlang.org/)
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+- [BootsWatch](https://bootswatch.com/)
 
-## Build
+- [Angular Cli](https://cli.angular.io/)
+```
+> ng new my-dream-app     // Crea un nuevo proyecto
+> ng serve -o             // Levanta el servidor local
+> ng g c new-component    // Crea un nuevo componente
+> ng g s new-service      // Crea un nuevo servicio
+```
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+## API REST 🖇️
 
-## Running unit tests
+Se utilizó una API REST en línea de uso gratuito para pruebas [jsonplaceholder](https://jsonplaceholder.typicode.com/)
+ 
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
-## Running end-to-end tests
+## Tutoriales 🤓
+1. [Curso Básico](https://www.youtube.com/playlist?list=PLezsbUDiwcpmhNiMzVPYJXV0Rqn71G4PU)
+    - Autor: [LeParadoxHD](https://www.youtube.com/c/LeParadoxHD) 
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+*Es un curso muy completo, para iniciar en el mundo de Angular, donde se explica los conceptos básicos y avanzados*
 
-## Further help
+2. [CRUD con NodeJS, MySQL](https://youtu.be/lxYB79ANJM8)
+    - Autor: [Fazt](https://www.youtube.com/channel/UCX9NJ471o7Wie1DQe94RVIg) 
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+*Crea un Servidor con NodeJS para conectarse con Angular y realizar peticiones como POST, GET, UPDATE, DELETE*
+
+2. [Login y Registro](https://youtu.be/qJ5R9WTW0_E)
+    - Autor: [Fazt](https://www.youtube.com/channel/UCX9NJ471o7Wie1DQe94RVIg) 
+
+*Ingresa usuarios desde una aplicación desarrollada con NodeJs, utilizando MySQL como base de datos*
